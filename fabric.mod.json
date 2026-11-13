@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "aot",
+  "version": "${version}",
+  "name": "Attack on Titan (Mid)",
+  "description": "Functional mid-tier Attack on Titan mod. Attack Titan + War Hammer Titan, basic ODM Gear, Thunder Spears and Pure Titans.",
+  "authors": ["Aftab"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/aot/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aot.AttackOnTitan"
+    ],
+    "client": [
+      "com.aot.client.AotClient"
+    ]
+  },
+  "mixins": [
+    "aot.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

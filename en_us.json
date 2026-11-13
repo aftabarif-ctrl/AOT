@@ -1,0 +1,19 @@
+{
+  "item.aot.odm_gear": "ODM Gear",
+  "item.aot.thunder_spear": "Thunder Spear",
+  "item.aot.titan_serum": "Titan Serum",
+  "item.aot.crystal_sword": "Crystal Sword",
+  "item.aot.crystal_hammer": "Crystal Hammer",
+  "item.aot.dual_blades": "Dual Blades",
+  "entity.aot.pure_titan": "Pure Titan",
+  "entity.aot.thunder_spear": "Thunder Spear",
+  "key.aot.transform": "Transform / Detransform",
+  "key.aot.grapple": "ODM Grapple",
+  "key.aot.warhammer_menu": "War Hammer Forge",
+  "category.aot": "Attack on Titan",
+  "message.aot.no_power": "You have no Titan power",
+  "message.aot.transformed": "You transformed!",
+  "message.aot.detransformed": "You returned to human form",
+  "message.aot.gas_empty": "ODM gas empty!",
+  "message.aot.cooldown": "Ability on cooldown"
+}
